@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="ph.edu.dlsu.texto.text_recognition"
+    >
+
+    <TextView
+        android:id="@+id/nametextView"
+        android:textSize="40sp"
+        android:textColor="@color/text"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:layout_marginBottom="50dp"/>
+
+    <TextView
+        android:text="@string/retrieved_text"
+        android:textSize="20sp"
+        android:textColor="@color/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:typeface="serif"
+        android:layout_marginBottom="20sp"/>
+
+    <TextView
+        android:id="@+id/displaytextView"
+        android:textColor="@color/text"
+        android:textSize="15sp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40sp"/>
+
+    <TextView
+        android:text="@string/select_language"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10sp"/>
+
+    <Button
+        android:text="@string/translate_text"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="selectLanguageTranslate"
+        android:layout_marginBottom="40sp"/>
+
+    <TextView
+        android:id="@+id/translatedtextView"
+        android:textColor="@color/text"
+        android:textSize="15sp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

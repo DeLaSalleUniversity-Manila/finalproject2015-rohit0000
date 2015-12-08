@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TexTo</string>
+
+    <string name="main_menu">Main Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="top_title">TexTo</string>
+    <string name="bot_title">Created by Cheong, Nihalani, Po</string>
+    <string name="bot_version">Version 1.0</string>
+
+    <string name="add_picture">Add Photo</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="change_image">Change Image</string>
+    <string name="enter_filename">Enter Name for Image</string>
+    <string name="text_image">Text Recognition</string>
+    <string name="save_image">Save Image</string>
+    <string name="check_image">Check Images</string>
+    <string name="check_list">Check List</string>
+    <string name="get_text">Get Text</string>
+    <string name="retrieved_text">Retrieved Text:</string>
+    <string name="select_language">Choose Language to Translate:</string>
+    <string name="translate_text">Translate to:</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_listof_saved_images">List of Images</string>
+    <string name="title_activity_custom_list">CustomList</string>
+    <string name="title_activity_text_recognition">Text Recognition</string>
+    <string name="title_activity_display_selected_image">Display Image</string>
+
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>

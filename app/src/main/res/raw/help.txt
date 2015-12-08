@@ -1,0 +1,48 @@
+TEXTO
+
+
+
+INSTRUCTIONS:
+
+1)  Add a Photo (Take a Picture or Choose from Gallery).
+2)  Enter a name for the image.
+3)  Select an image button.
+4a) From left to right, the first button is for direct Text Recognition.
+4b) Click the button "TRANSLATE TO:" to choose what language you want the text to be translated.
+5)  Second button will allow you to save the image and the name in a database.
+6a) Third button will allow you to check the images from the database.
+6b) You can choose what image you like in the list.
+6c) Get the Text from the image
+6d) Click the button "TRANSLATE TO:" to choose what language you want the text to be translated.
+7)  Fourth button will allow you to go to Help Activity.
+
+FEATURES:
+
+V1.0
+-Add Photos
+    -via Picture
+    -via Gallery
+-Text Recognition via Tesseract
+-Translation via Microsoft Translator
+-Storage for Pictures Taken
+-Database for Saving Images
+-Help
+
+SUPPORT INFORMATION:
+
+TEXTO is developed by:
+
+Junlae Cheong
+Phone: (+63)927-134-1034
+Email: junlae_cheong@dlsu.edu.ph
+All Rights Reserved
+
+Rohit Nihalani
+Phone: (+63)926-664-9695
+Email: rohit_nihalani@dlsu.edu.ph
+All Rights Reserved
+
+Ryback Tyrone G. Po
+Phone: (+63)915-390-1911
+Email: ryback_po@dlsu.edu.ph
+All Rights Reserved
